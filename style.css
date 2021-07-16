@@ -1,0 +1,43 @@
+body{
+  background-color: #3334;
+    color:teal;
+  font-family: Arial;
+    margin: 15% 10%;
+ border-top: 1px solid;
+   border-bottom: 1px solid; 
+}
+.skill-header {
+  text-transform: uppercase;
+  border-top: 1px solid;
+   border-bottom: 1px solid; 
+}
+.main-header{
+  background-color: #3333;
+  text-align: center;
+}
+.edi-header{
+  
+   border-top: 1px solid;
+}
+.lang,h3{
+  text-align: center;
+}
+.custom-shape-divider-top-1626438544 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1626438544 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 166px;
+}
+
+.custom-shape-divider-top-1626438544 .shape-fill {
+    fill: #EEE6E6;
+}
